@@ -4,6 +4,8 @@ germline_single_sample_workflow :
 This WDL pipeline implements data pre-processing and initial calling for somatic SNP,
 Indel, and copy number variants in human whole-genome sequencing (WGS) data.
 
+Note: The gatk-somatic-with-preprocessing WDL is not used in any pipelines at the Broad Institute and has been provided only as a convenience for the community.  Therefore, this WDL is unsupported.
+
 #### Requirements/expectations
  - Human whole-genome pair-end sequencing data in unmapped BAM (uBAM) format
  - One or more read groups, one per uBAM file, all belonging to a single sample (SM)
