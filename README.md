@@ -22,7 +22,7 @@ and has been provided only as a convenience for the community.  Therefore, this 
 ### Software version requirements :
 Cromwell version support 
 - Successfully tested on v30.2
-- Does not work on versions < v23 due to output syntax
+- Does not work on versions < v30 due to output syntax
 
 ### LICENSING :
  This script is released under the WDL source code license (BSD-3) (see LICENSE in
